@@ -33,11 +33,6 @@ Built with **React, Node.js, FastAPI, LangChain, and LLMs**, this project showca
 
 ---
 
-## 📸 Screenshots  
-
-🚧 *Screenshots coming soon…*  
-
----
 
 ## ⚡ Getting Started  
 
@@ -45,3 +40,32 @@ Built with **React, Node.js, FastAPI, LangChain, and LLMs**, this project showca
 ```bash
 git clone https://github.com/aryansinha1818/Shred-Macros.git
 cd Shred-Macros
+```
+
+2️⃣ Install Dependencies
+Frontend
+```bash
+cd client
+npm install
+npm start
+```
+Backend
+```bash
+cd server
+npm install
+npm run dev
+```
+AI Service (Python FastAPI)
+```bash
+cd ai-service
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+👨‍💻 Author
+Aryan Sinha
+## 🔗 Links
+[![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.sinha1818@gmail.com)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-sinha-877698212/)
+
