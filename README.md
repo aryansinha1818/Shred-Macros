@@ -62,7 +62,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
-👨‍💻 Author
+👨‍💻 Author : 
 Aryan Sinha
 ## 🔗 Links
 [![email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.sinha1818@gmail.com)
